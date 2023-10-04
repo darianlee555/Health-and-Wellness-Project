@@ -2,7 +2,9 @@
 
 ### Project Overview
 
-![istockphoto-1183325543-612x612 (2)](https://github.com/darianlee555/Health-and-Wellness-Project/assets/145151765/3e1fe5a1-7036-4a89-9ae8-a7dd0e9625c5)
+
+![istockphoto-1183325543-612x612 (2) (1)](https://github.com/darianlee555/Health-and-Wellness-Project/assets/145151765/fc070bbc-d651-41d9-82ec-fc05d9694d14)
+
 
 
 This is an **Power BI** project analysing **NYC Motor Vehicle Collision datasets** made from NYPD accident reports. The point of this project is to answer crucial questions with regards to traffic safety in NYC by providing insights and hopefully improving traffic safety by recommending data-backed course of actions for NYC to prevent possible future collisions.
