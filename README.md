@@ -22,7 +22,7 @@ More further info and a description of each column can be found in the data sour
 
 ### Objectives
 
-I wanted to answer the following questions using the data. I picked these specific questions as they might be realistic questions that people might ask about the data:
+I wanted to answer the following questions using the data:
 
 * What was the most common reason for a crash?
 * What ages were most likely to get into car crashes?
