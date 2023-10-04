@@ -1,4 +1,4 @@
-# Sleep Health Analysis and Dashboard
+# Health and Wellness Analysis and Dashboard
 
 ### Project Overview
 
@@ -7,23 +7,23 @@
 
 
 
-This is an **Power BI** project analysing **NYC Motor Vehicle Collision datasets** made from NYPD accident reports. The point of this project is to answer crucial questions with regards to traffic safety in NYC by providing insights and hopefully improving traffic safety by recommending data-backed course of actions for NYC to prevent possible future collisions.
+This is an **Power BI** project analysing Sleep Health and Lifestyle made from data from Kaggle. The point of this project is to answer crucial questions with regards to how one's health/wellness is affected by their sleep habits and lifestyle using insights from the data.
 
-### Data Sources
+### Data Source
 
-**Vehicle Dataset**: https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Vehicles/bm4k-52h4
+https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset
 
-**Crash Dataset**: https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95
+Dataset Overview:
+The Sleep Health and Lifestyle Dataset comprises 400 rows and 13 columns, covering a wide range of variables related to sleep and daily habits. It includes details such as gender, age, occupation, sleep duration, quality of sleep, physical activity level, stress levels, BMI category, blood pressure, heart rate, daily steps, and the presence or absence of sleep disorders. 
 
-**Person Dataset**: https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Person/f55k-p6yu
+Key Features of the Dataset:
+Comprehensive Sleep Metrics: Explore sleep duration, quality, and factors influencing sleep patterns.
+Lifestyle Factors: Analyze physical activity levels, stress levels, and BMI categories.
+Cardiovascular Health: Examine blood pressure and heart rate measurements.
+Sleep Disorder Analysis: Identify the occurrence of sleep disorders such as Insomnia and Sleep Apnea.
 
-The **Vehicle Dataset** contains details on each vehicle involved in the crash.
+More further info and a description of each column can be found in the data source link above.
 
-The **Crash Dataset** contains details on the crash event.
-
-The **Person Dataset** contains details for people involved in the crash.
-
-A description of each column of the datasets can be seen in the links above.
 
 The **Vehicle and Person Datasets** are **fact tables** connected to the **Crash Dataset (the dimension table)**. The fact tables are connected to the dimension table via a **Galaxy Schema Data Model** through the common column: **'collision_id'** with **many-to-one relationships (*:1)** 
 
