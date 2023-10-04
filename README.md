@@ -7,7 +7,7 @@
 
 
 
-This is an **Power BI** project analysing Sleep Health and Lifestyle made from data from Kaggle. The point of this project is to answer crucial questions with regards to how one's health/wellness is affected by their sleep habits and lifestyle using insights from the data.
+This is an **Power BI** project analysing **Sleep Health and Lifestyle** made from data from Kaggle containing fictional participants. The point of this project is to answer crucial questions with regards to how the participants' health/wellness is affected by their sleep habits and lifestyle using insights from the data.
 
 ### Data Source
 
@@ -15,7 +15,7 @@ https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset
 
 **Dataset Overview:**
 
-The Sleep Health and Lifestyle Dataset comprises 400 rows and 13 columns, covering a wide range of variables related to sleep and daily habits. It includes details such as gender, age, occupation, sleep duration, quality of sleep, physical activity level, stress levels, BMI category, blood pressure, heart rate, daily steps, and the presence or absence of sleep disorders. 
+The **Sleep Health and Lifestyle Dataset** comprises 400 rows and 13 columns, covering a wide range of variables related to sleep and daily habits. It includes details such as gender, age, occupation, sleep duration, quality of sleep, physical activity level, stress levels, BMI category, blood pressure, heart rate, daily steps, and the presence or absence of sleep disorders. 
 
 More further info and a description of each column can be found in the data source link above.
 
@@ -24,16 +24,16 @@ More further info and a description of each column can be found in the data sour
 
 I wanted to answer the following questions using the data:
 
-* What was the most common reason for a crash?
-* What ages were most likely to get into car crashes?
-* What Borough of New York had the most injuries and fatalies?
-* What month generally had the most crashes?
-* Who is more likely to get into an accident, males or females?
-* What was the most common injury?
-* What type of crash (single vehicle crash, double vehicle crash, triple vehicle crash, etc.) was most common? 
-* For crashes that were fatalities, where was the location in the borough they occured?
-* What day and what timeframe had the most accidents?
-* What were the total number of crashes, injuries, and fatalities?
+* What were the total number of individuals/participants in this dataset?
+* What was the average age of the participants?
+* What was the average heartrate?
+* What was the average amount of sleep they got?
+* How many participants were males? How many were females?
+* How much exercise did they get daily?
+* What weight type were they? (Obese, overweight, normal weight?)
+* What was their average systolic and diastolic blood pressure?
+* What type of blood pressure did they have? (Normal, Elevated, Stage 1 High Blood Pressure, Stage 2?) 
+* What was their average stress levels and sleep quality? 
 
 ### Tools Used
 
