@@ -20,10 +20,6 @@ The Sleep Health and Lifestyle Dataset comprises 400 rows and 13 columns, coveri
 More further info and a description of each column can be found in the data source link above.
 
 
-The **Vehicle and Person Datasets** are **fact tables** connected to the **Crash Dataset (the dimension table)**. The fact tables are connected to the dimension table via a **Galaxy Schema Data Model** through the common column: **'collision_id'** with **many-to-one relationships (*:1)** 
-
-![data model](https://github.com/darianlee555/Portfolio-Projects/assets/145151765/e54e4ea7-c691-4d88-bbd9-52638aa9a712)
-
 ### Objectives
 
 I wanted to answer the following questions using the data. I picked these specific questions as they might be realistic questions that people might ask about the data:
