@@ -57,7 +57,7 @@ The following **Excel** features were incorporated: Filters.
 
 
 ### Analysis/Results/Insights
-Here is the code used to analyze the data and obtain the following results: [https://github.com/darianlee555/Portfolio-Projects/blob/main/SQL%20Motor%20Vehicle%20Crashes%20Code.sql](https://github.com/darianlee555/Health-and-Wellness-Project/blob/main/Health%20Data%20Queries.sql)
+Here is the code used to analyze the data and obtain the following results/insights: [https://github.com/darianlee555/Portfolio-Projects/blob/main/SQL%20Motor%20Vehicle%20Crashes%20Code.sql](https://github.com/darianlee555/Health-and-Wellness-Project/blob/main/Health%20Data%20Queries.sql)
 - There were 374 Total Participants.
 - The average age of the participants is 42.
 - Their average heart rate is 70 BPM.
