@@ -49,7 +49,8 @@ The following **Excel** features were incorporated: Filters.
 ### Data Visualization/Dashboard
 
 
-![health screenshot](https://github.com/darianlee555/Health-and-Wellness-Project/assets/145151765/0e086f32-6844-4067-8cd7-f66acb9a3661)
+![afa](https://github.com/darianlee555/Health-and-Wellness-Project/assets/145151765/898a8047-0b93-4986-83ad-15992761c174)
+
 
 
 ### Features:
