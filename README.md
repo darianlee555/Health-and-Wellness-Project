@@ -28,7 +28,8 @@ I wanted to answer the following questions using the data:
 * What weight type were they? (Obese, overweight, normal weight?)
 * What was their average systolic and diastolic blood pressure?
 * What type of blood pressure did they have? (Normal, Elevated, Stage 1 High Blood Pressure, etc.) 
-* What was their average stress levels and sleep quality? 
+* What was their average stress levels and sleep quality (Out of 5)?
+* Did they have a sleep disorder present?
 
 ### Tools Used
 
@@ -55,12 +56,24 @@ The following **Excel** features were incorporated: Filters.
 - The filters "Borough" and "Year" allow users to filter through the data to only see data associated with a certain occupation, weight, gender, and/or sleep disorder. Basically showing data based on one's lifestyle as is the point of this project.
 
 
-### Analysis/Results
+### Analysis/Results/Insights
 Here is the code used to analyze the data and obtain the following results: [https://github.com/darianlee555/Portfolio-Projects/blob/main/SQL%20Motor%20Vehicle%20Crashes%20Code.sql](https://github.com/darianlee555/Health-and-Wellness-Project/blob/main/Health%20Data%20Queries.sql)
-- There were 374 Total Participants
-- The average age of the participants is 42
-- Their average heart rate is 70 BPM 
-
+- There were 374 Total Participants.
+- The average age of the participants is 42.
+- Their average heart rate is 70 BPM.
+- The average amount of sleep they got was 7 hours.
+- There were 189 participants that were male and 185 participants that were female.
+- On average, they exercised for about 59 minutes a day.
+- 10 participants were classified as Obese, 148 were classified as Overweight, and 216 were classified as a Normal Weight.
+- Their average systolic blood pressure was 129 mmHg. Their average disatolic blood pressure was 85 mmHg.
+- 41 Participants had Normal Blood Pressure (Systolic < 120 and Disatolic < 80)
+- 1 Participant had Elevated Blood Pressure (Systolic between 120 and 129 and Disatolic < 80)
+- 261 Participants had Stage 1 High Blood Pressure (Systolic betweeen 130 and 139 or Disatolic between 80 and 89)
+- 71 Participants had Stage 2 High Blood Pressure (Systolic >=140 OR Disatolic >= 90)
+- 0 Participants Had a hypertensive crisis (Systolic > 180 and/or Disatolic > 120)
+- Their average stress levels were 2.69/5 and their average sleep quality was 3.66/5
+- 77 Participants had Insomnia, 78 had Sleep Apnea, and 219 had no sleep disorder.
+- The above insights can be filtered for certain categories such as gender, weight, occupation, and/or sleep disorder as mentioned earlier to show all of the insights above for one or more sub-categories.
 
 ### Recommendations
 Based on the data, in order to prevent future vehicle collisions in NYC, I would encourage more advertisements about the dangers of distracted driving. I would have these ads target the demographic of males that are aged 21 to 40 as they tend to get into the most accidents. I would encourage more ads in Brooklyn specifically, as well as have more traffic directors or officers in Brooklyn since Brooklyn is the most dangerous borough with the most injuries and fatalies. I would also have more officers patrol traffic in all boroughs on Friday afternoons since that's the most likely timeframe that an accident will occur. Also, even though July is the month with the most crashes, it's clear that after April, there is a clear increase in the number of crashes as seen in the line chart graph. Therefore, I would focus more on increasing traffic safety measures from May onwards, as January through April have a somewhat low amount of crashes in comparison to other months. If all/any of these steps are taken, perhaps they will reduce the amount of future collisions NYC has. 
