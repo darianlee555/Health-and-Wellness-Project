@@ -48,9 +48,8 @@ The following **Excel** features were incorporated: Page Navigation/Buttons, Fil
 ### Data Visualization/Dashboard
 
 
-![Screenshot (18)](https://github.com/darianlee555/Portfolio-Projects/assets/145151765/8381b284-ebda-4cf9-8d33-370d13ba8cf8)
+![health screenshot](https://github.com/darianlee555/Health-and-Wellness-Project/assets/145151765/0e086f32-6844-4067-8cd7-f66acb9a3661)
 
-![Screenshot (19)](https://github.com/darianlee555/Portfolio-Projects/assets/145151765/257386b4-4b9e-4a12-834e-9e1a69e44b47)
 
 ### Features:
 - "More Info" and "Previous Info" are navigational buttons that allow the user to navigate easily through the two pages of the dashboard.
