@@ -39,7 +39,7 @@ I wanted to answer the following questions using the data:
 
 ### Skills/Concepts Demonstrated
 
-The following **SQL** skills were used: Aggregate Functions, Unions, Cases, Adding Data, Updating Data, 
+The following **SQL** skills were used: Aggregate Functions, Cases, Adding Data, Updating Data, 
 Cleaning/Transforming/Reformatting Data.
 
 If interested here is the code: [(https://github.com/darianlee555/Health-and-Wellness-Project/blob/main/Health%20Data%20Queries.sql)](https://github.com/darianlee555/Health-and-Wellness-Project/blob/main/Health%20Data%20Queries.sql)
