@@ -2,6 +2,8 @@
 
 ### Project Overview
 
+![360_F_448597606_hRQwFbCRv91kHfQ6T3ovd7E4TiZBxDma (1) (2)](https://github.com/darianlee555/Portfolio-Projects/assets/145151765/f224b787-a371-4012-a6e9-4bbe61d02d5e)
+
 This is an **SQL** and **Excel** project analysing **Sleep Health and Lifestyle** made from data from Kaggle containing fictional participants. The point of this project is to answer crucial questions with regards to how the participants' health/wellness is affected by their sleep habits and lifestyle using insights from the data.
 
 ### Data Source
