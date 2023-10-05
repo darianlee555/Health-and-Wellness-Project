@@ -113,7 +113,7 @@ alter column quality_of_sleep type double precision using quality_of_sleep::doub
 alter column stress_level type double precision using stress_level::double precision
 ;
 update health_data
-set quality_of_sleep = quality_of_sleep/2
+set quality_of_sleep = quality_of_sleep/2,
 stress_level = stress_level/2;
 
 --Now let's recalculate Average Sleep Quality and Average Stress Level without having to divide by 2 this time (round to 2 decimal places)
