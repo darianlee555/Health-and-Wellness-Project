@@ -2,8 +2,7 @@
 
 ### Project Overview
 
-
-![istockphoto-1183325543-612x612 (2) (1)](https://github.com/darianlee555/Health-and-Wellness-Project/assets/145151765/fc070bbc-d651-41d9-82ec-fc05d9694d14)
+![360_F_448597606_hRQwFbCRv91kHfQ6T3ovd7E4TiZBxDma (1) (2)](https://github.com/darianlee555/Health-and-Wellness-Project/assets/145151765/a80e08c0-da32-4935-9543-2d0c30b14948)
 
 
 
