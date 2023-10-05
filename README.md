@@ -52,10 +52,8 @@ The following **Excel** features were incorporated: Filters.
 
 
 ### Features:
-- "More Info" and "Previous Info" are navigational buttons that allow the user to navigate easily through the two pages of the dashboard.
-- The filters "Borough" and "Year" allow users to filter through the data to see data associated with a certain year and/or borough.
-- The "Key Insights" from analyzing the data are put on the left-hand side to make them more obvious to users.
-- A zoomable map is included with locations of fatalities for each borough so that the info about those particular collisions can be investigated further. 
+- The filters "Borough" and "Year" allow users to filter through the data to only see data associated with a certain occupation, weight, gender, and/or sleep disorder. Basically showing data based on one's lifestyle as is the point of this project.
+
 
 ### Analysis
 Here is the code used to obtain the following results: https://github.com/darianlee555/Portfolio-Projects/blob/main/SQL%20Motor%20Vehicle%20Crashes%20Code.sql
