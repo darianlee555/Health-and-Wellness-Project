@@ -117,6 +117,6 @@ set quality_of_sleep = quality_of_sleep/2
 stress_level = stress_level/2;
 
 --Now let's recalculate Average Sleep Quality and Average Stress Level without having to divide by 2 this time (round to 2 decimal places)
-select round((avg(quality_of_sleep)/2)::numeric,2) as average_sleep_quality, round((avg(stress_level)/2)::numeric,2) as average_stress_level 
+select round(avg(quality_of_sleep)::numeric,2) as average_sleep_quality, round(avg(stress_level)::numeric,2) as average_stress_level 
 from health_data;
 
