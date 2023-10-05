@@ -32,7 +32,7 @@ I wanted to answer the following questions using the data:
 * How much exercise did they get daily?
 * What weight type were they? (Obese, overweight, normal weight?)
 * What was their average systolic and diastolic blood pressure?
-* What type of blood pressure did they have? (Normal, Elevated, Stage 1 High Blood Pressure, Stage 2?) 
+* What type of blood pressure did they have? (Normal, Elevated, Stage 1 High Blood Pressure, Stage 2, Hypertensive?) 
 * What was their average stress levels and sleep quality? 
 
 ### Tools Used
