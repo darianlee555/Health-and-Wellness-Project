@@ -2,10 +2,6 @@
 
 ### Project Overview
 
-![360_F_448597606_hRQwFbCRv91kHfQ6T3ovd7E4TiZBxDma (1) (2)](https://github.com/darianlee555/Health-and-Wellness-Project/assets/145151765/a80e08c0-da32-4935-9543-2d0c30b14948)
-
-
-
 This is an **Power BI** project analysing **Sleep Health and Lifestyle** made from data from Kaggle containing fictional participants. The point of this project is to answer crucial questions with regards to how the participants' health/wellness is affected by their sleep habits and lifestyle using insights from the data.
 
 ### Data Source
