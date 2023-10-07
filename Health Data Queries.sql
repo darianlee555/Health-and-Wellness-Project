@@ -1,3 +1,4 @@
+/* PostgreSQL used */
 --Create Health Table
 Create Table Health_Data
 (
