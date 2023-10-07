@@ -43,7 +43,7 @@ I wanted to answer the following questions using the data:
 
 The following **SQL** skills were used: Aggregate Functions, Cases, Adding Data, Updating Data, Cleaning/Transforming/Reformatting Data.
 
-If interested here is the code: [(https://github.com/darianlee555/Health-and-Wellness-Project/blob/main/Health%20Data%20Queries.sql)](https://github.com/darianlee555/Health-and-Wellness-Project/blob/main/Health%20Data%20Queries.sql)
+If interested here is the code: (https://github.com/darianlee555/Health-and-Wellness-Project/blob/main/Health%20Data%20Queries.sql)
 
 The following **Excel** features were incorporated: Filters.
 
@@ -59,7 +59,7 @@ The following **Excel** features were incorporated: Filters.
 
 
 ### Analysis/Results/Insights
-Here is the code used to analyze the data and obtain the following results/insights: [(https://github.com/darianlee555/Health-and-Wellness-Project/blob/main/Health%20Data%20Queries.sql)](https://github.com/darianlee555/Health-and-Wellness-Project/blob/main/Health%20Data%20Queries.sql)
+Here is the code used to analyze the data and obtain the following results/insights: https://github.com/darianlee555/Health-and-Wellness-Project/blob/main/Health%20Data%20Queries.sql
 - There were 374 Total Participants.
 - The average age of the participants is 42.
 - Their average heart rate is 70 BPM.
