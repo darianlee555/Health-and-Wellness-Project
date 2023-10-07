@@ -1,5 +1,6 @@
 /* PostgreSQL used */
 /* Skills Used: Aggregate Functions, Cases, Adding Data, Updating Data, Cleaning/Transforming/Reformatting Data.*/
+-- The following dataset was used: https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset
 --Create Health Table
 Create Table Health_Data
 (
