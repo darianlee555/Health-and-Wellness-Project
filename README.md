@@ -45,7 +45,7 @@ The following **SQL** skills were used: Aggregate Functions, Cases, Adding Data,
 
 If interested here is the code: https://github.com/darianlee555/Health-and-Wellness-Project/blob/main/Health%20Data%20Queries.sql
 
-The following **Excel** features were incorporated: Filters.
+The following **Excel** features were incorporated: Formulas/Functions, Pivot Tables/Charts, Power Query, Filters.
 
 ### Data Visualization/Dashboard
 
