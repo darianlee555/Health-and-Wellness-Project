@@ -72,6 +72,7 @@ Here is the code used to analyze the data and obtain the following results/insig
 - **Sleep Disorders**: 77 participants reported having Insomnia. 78 participants reported having Sleep Apnea. 219 participants did not report any sleep disorders.
 
 **Dashboard Filtering**
+
 As mentioned earlier, the above insights can be further explored and filtered using the dashboard. You can obtain the same insights for specific categories such as gender, weight classification, occupation, or presence of a sleep disorder. This feature allows for a more detailed analysis of sub-categories within the dataset, enabling a deeper understanding of the data and potential trends.
 
 ### Conclusions/Recommendations
