@@ -55,8 +55,8 @@ The following **Excel** features were incorporated: Formulas/Functions, Pivot Ta
 
 
 ### Features:
-- The filters "Borough" and "Year" allow users to filter through the data to only see data associated with a certain occupation, weight, gender, and/or sleep disorder. Basically showing data based on one's lifestyle as is the point of this project.
-
+- The filters allow users to filter through the data to only see data associated with a certain occupation, weight, gender, and/or sleep disorder. Basically showing data based on one's lifestyle as is the point of this project.
+- The filters "Occupation", "Weight", "Gender", and "Sleep Disorder" allow users to filter the data to view information associated with specific occupations, weight categories, genders, and/or sleep disorders. This functionality aligns with the primary objective of this project, which is to present data based on individuals' lifestyles.
 
 ### Analysis/Results/Insights
 Here is the code used to analyze the data and obtain the following results/insights: https://github.com/darianlee555/Health-and-Wellness-Project/blob/main/Health%20Data%20Queries.sql
