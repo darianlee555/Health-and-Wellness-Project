@@ -1,4 +1,5 @@
 /* PostgreSQL used */
+/* Skills Used: Aggregate Functions, Cases, Adding Data, Updating Data, Cleaning/Transforming/Reformatting Data.*/
 --Create Health Table
 Create Table Health_Data
 (
