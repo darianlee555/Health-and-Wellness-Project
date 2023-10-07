@@ -59,22 +59,20 @@ The following **Excel** features were incorporated: Formulas/Functions, Pivot Ta
 
 ### Analysis/Results/Insights
 Here is the code used to analyze the data and obtain the following results/insights: https://github.com/darianlee555/Health-and-Wellness-Project/blob/main/Health%20Data%20Queries.sql
-- There were 374 Total Participants.
-- The average age of the participants is 42.
-- Their average heart rate is 70 BPM.
-- The average amount of sleep they got was 7 hours.
-- There were 189 participants that were male and 185 participants that were female.
-- On average, they exercised for about 59 minutes a day.
-- 10 participants were classified as Obese, 148 were classified as Overweight, and 216 were classified as a Normal Weight.
-- Their average systolic blood pressure was 129 mmHg. Their average disatolic blood pressure was 85 mmHg.
-- 41 Participants had Normal Blood Pressure (Systolic < 120 and Disatolic < 80)
-- 1 Participant had Elevated Blood Pressure (Systolic between 120 and 129 and Disatolic < 80)
-- 261 Participants had Stage 1 High Blood Pressure (Systolic betweeen 130 and 139 or Disatolic between 80 and 89)
-- 71 Participants had Stage 2 High Blood Pressure (Systolic >=140 OR Disatolic >= 90)
-- 0 Participants Had a hypertensive crisis (Systolic > 180 and/or Disatolic > 120)
-- Their average stress levels were 2.69/5 and their average sleep quality was 3.66/5
-- 77 Participants had Insomnia, 78 had Sleep Apnea, and 219 had no sleep disorder.
-- The above can be filtered in the dashboard to obtain the same insights for certain categories such as gender, weight, occupation, and/or sleep disorder as mentioned earlier to show all of the insights above for one or more sub-categories.
+- **Total Participants**: The dataset has a total of 374 participants.
+- **Average Age** The average age of the participants was 42 years.
+- **Average Heart Rate**:  On average, participants exhibit a heart rate of 70 beats per minute (BPM).
+- **Average Amount of Sleep**: Participants, on average, reported getting 7 hours of sleep.
+- **Gender Distribution**: There are 189 male participants and 185 female participants.
+- **Exercise Habits**: Participants engage in an average of 59 minutes of exercise per day.
+- **Weight Classification**: 10 participants were classified as Obese. 148 participants were classified as Overweight. 216 participants were classified as having a Normal Weight.
+- **Average Blood Pressure**: For the participants, the Average Systolic Blood Pressure was 129 mmHg and the Average Diastolic Blood Pressure was 85 mmHg.
+- **Blood Pressure Category**: 41 participants had Normal Blood Pressure (Systolic < 120 and Diastolic < 80). 1 participant had Elevated Blood Pressure (Systolic between 120 and 129 and Diastolic < 80). 261 participants had Stage 1 High Blood Pressure (Systolic between 130 and 139 or Diastolic between 80 and 89). 71 participants had Stage 2 High Blood Pressure (Systolic >=140 OR Diastolic >= 90). No participants had a hypertensive crisis (Systolic > 180 and/or Diastolic > 120).
+- **Average Stress Levels and Sleep Quality**: The participants' self-reported average stress level was 2.69 out of 5, and their average sleep quality rating was 3.66 out of 5.
+- **Sleep Disorders**: 77 participants reported having Insomnia. 78 participants reported having Sleep Apnea. 219 participants did not report any sleep disorders.
+
+**Dashboard Filtering**
+As mentioned earlier, the above insights can be further explored and filtered using the dashboard. You can obtain the same insights for specific categories such as gender, weight classification, occupation, or presence of a sleep disorder. This feature allows for a more detailed analysis of sub-categories within the dataset, enabling a deeper understanding of the data and potential trends.
 
 ### Conclusions/Recommendations
 Based on the data, It's clear that a significant portion of participants exhibit high blood pressure (Stage 1/Stage 2). To enhance overall health, participants are advised to focus on lowering their systolic and diastolic blood pressure levels. The averages of 129 mmHg for systolic and 85 mmHg for diastolic are considered unhealthy since normal blood pressure is typically below 120 mmHg for systolic and below 80 mmHg for diastolic. It's also clear that a lot of participants (155 participants) also have some sort of sleep disorder (either sleep apnea or insomnia). I recommend either treatment for these disorders or more time sleeping and more time exercising in order to hopefully cure these ailments. The participants have an about an even ratio of males to females so there shouldn't be much selection bias. The 70 BPM heart rate on average is also relatively normal (60 to 100 BPM is considered normal). Since most participants have an average age of 42 and a significant number are overweight (148) or obese (10), it is advisable for individuals in these categories to focus on regular exercise and adopting healthier dietary habits to achieve a healthier BMI. To increase average sleep quality and reduce average stress levels, participants are encouraged to prioritize both exercise and sufficient sleep as these lifestyle changes can naturally lead to lower stress and improved sleep quality. If any/all of these recommendations are followed by the participants, there should be a positive change in their health.
