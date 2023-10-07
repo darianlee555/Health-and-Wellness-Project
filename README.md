@@ -4,7 +4,7 @@
 
 ![360_F_448597606_hRQwFbCRv91kHfQ6T3ovd7E4TiZBxDma (1) (2)](https://github.com/darianlee555/Portfolio-Projects/assets/145151765/f224b787-a371-4012-a6e9-4bbe61d02d5e)
 
-This is an **SQL** and **Excel** project analysing **Sleep Health and Lifestyle** made from data from Kaggle containing fictional participants. The point of this project is to answer crucial questions with regards to how the participants' health/wellness is affected by their sleep habits and lifestyle using insights from the data.
+This is an **SQL** and **Excel** project analyzing **Sleep Health and Lifestyle** made from data obtained from Kaggle involving fictional participants. The point of this project is to answer crucial questions with regards to how the participants' health/wellness is affected by their sleep habits and lifestyle using insights from the data.
 
 ### Data Source
 
@@ -14,24 +14,24 @@ https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset
 
 The **Sleep Health and Lifestyle Dataset** comprises around 400 rows and 13 columns, covering a wide range of variables related to sleep and daily habits. It includes details such as gender, age, occupation, sleep duration, quality of sleep, physical activity level, stress levels, BMI category, blood pressure, heart rate, daily steps, and the presence or absence of sleep disorders. 
 
-More further info and a description of each column can be found in the data source link above.
+For additional information and a description of each column, please refer to the data source link above.
 
 
 ### Objectives
 
-I wanted to answer the following questions using the data:
+I aim to answer the following questions using the dataset:
 
-* What were the total number of individuals/participants in this dataset?
-* What was the average age of the participants?
-* What was the average heartrate?
-* What was the average amount of sleep they got?
-* How many participants were males? How many were females?
-* How much exercise did they get daily?
-* What weight type were they? (Obese, overweight, normal weight?)
-* What was their average systolic and diastolic blood pressure?
-* What type of blood pressure did they have? (Normal, Elevated, Stage 1 High Blood Pressure, etc.) 
-* What was their average stress levels and sleep quality (Out of 5)?
-* Did they have a sleep disorder present?
+1. How many individuals/participants are included in this dataset?
+2. What is the average age of the participants?
+3. What is the average heart rate of the participants?
+4. What is the average amount of sleep they receive?
+5. How many participants are male, and how many are female?
+6. What is the daily exercise level of the participants?
+7. What weight category do they fall into (Obese, overweight, normal weight)?
+8. What are the average systolic and diastolic blood pressure readings?
+9. What blood pressure category do they belong to (Normal, Elevated, Stage 1 High Blood Pressure, etc.)?
+10. What are their average stress levels and sleep quality (rated out of 5)?
+11. Is there a presence of sleep disorders among the participants?
 
 ### Tools Used
 
@@ -43,7 +43,7 @@ I wanted to answer the following questions using the data:
 
 The following **SQL** skills were used: Aggregate Functions, Cases, Adding Data, Updating Data, Cleaning/Transforming/Reformatting Data.
 
-If interested here is the code: (https://github.com/darianlee555/Health-and-Wellness-Project/blob/main/Health%20Data%20Queries.sql)
+If interested here is the code: https://github.com/darianlee555/Health-and-Wellness-Project/blob/main/Health%20Data%20Queries.sql
 
 The following **Excel** features were incorporated: Filters.
 
